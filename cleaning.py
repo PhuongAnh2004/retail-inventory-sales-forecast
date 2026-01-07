@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 
-# Load your data from the specified path
-file_path = r"D:\UNI STUDY\Exchange\SUFE studying\Time series analysis\FINAL PROJ\dataset\Retail inventory - Copy.csv"
+# Load data from the specified path
+file_path = r".\Retail inventory.csv"
 df = pd.read_csv(file_path)
 
 # Convert the 'Past promotion of product in lac' and 'Demand forecast' columns to correct values (multiply by 1000 for decimals)
