@@ -1,4 +1,4 @@
-# Supply Chain Data Analysis Project
+# Retail Inventory Optimization and Sales Forecast
 
 ## Files
 - `Retail_inventory.xlsx`: 
